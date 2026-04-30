@@ -35,4 +35,4 @@ if (chunk) {
 
 `FbAudioChunk` is a simplified wrapper around this:
 
-https://github.com/marc2k3/foobar2000-sdk/blob/main/foobar2000/SDK/audio_chunk.h
+https://github.com/dima-lur/foobar2000-sdk/blob/main/foobar2000/SDK/audio_chunk.h

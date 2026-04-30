@@ -129,7 +129,7 @@ have not been made.
 
 ## 1.6.2.25.12.15
 - Fix crashing when using certain library iteration methods in WINE.
-- Last 32bit release. It remains [available to download](https://github.com/marc2k3/fb2k-graveyard) but is unsupported.
+- Last 32bit release. It remains [available to download](https://github.com/dima-lur/fb2k-graveyard) but is unsupported.
 
 ## 1.6.2.25.11.15
 - Tooltips are now dark mode aware.
@@ -190,10 +190,10 @@ window.GetColourDUI
 window.GetFontCUI
 window.GetFontDUI
 ```
-- Add [build](https://github.com/marc2k3/spider-monkey-panel-x64/tree/main/docs/BUILDING.md) instructions.
+- Add [build](https://github.com/dima-lur/spider-monkey-panel-x64/tree/main/docs/BUILDING.md) instructions.
 
 ## 1.6.2.25.06.21
-- Add utils.HTTPRequestAsync. See [web requests](https://github.com/marc2k3/spider-monkey-panel-x64/tree/main/docs/web-requests.md).
+- Add utils.HTTPRequestAsync. See [web requests](https://github.com/dima-lur/spider-monkey-panel-x64/tree/main/docs/web-requests.md).
 
 ## 1.6.2.25.06.17
 - Various bug fixes.

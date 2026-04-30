@@ -7,7 +7,7 @@
 
 First, you'll need to perform a clone of the repository. From a `PowerShell` prompt:
 ```
-git clone https://github.com/marc2k3/spider-monkey-panel-x64
+git clone https://github.com/dima-lur/spider-monkey-panel-x64
 ```
 
 3rd party dependencies are installed via [vcpkg](https://github.com/microsoft/vcpkg). If you don't already haave it installed:
